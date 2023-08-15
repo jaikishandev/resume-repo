@@ -164,6 +164,18 @@ a {
     color: rgba(203, 203, 17, 0.811);
 }
 
+
+.ph-Number {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.ph-Number a {
+    display: block;
+    padding-bottom: 10px;
+}
+
 @media(max-width:600px) {
 
     .section--page {
